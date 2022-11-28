@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaghnanii
-- 👀 Android Developer
-- 📫 Professional Laravel Developer
+- 👀 Full Stack Developer
+- 📫 Sr. PHP Laravel Developer
 
 <!---
 shaghnanii/shaghnanii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
