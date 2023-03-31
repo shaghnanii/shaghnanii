@@ -13,8 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaghnanii&label=Profile%20views&color=0e75b6&style=flat" alt="shaghnanii" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaghnanii&label=Profile%20views&color=0e75b6&style=flat" alt="shaghnanii" /> </p>
-
 <p align="left"> <a href="https://twitter.com/shaghnanii" target="blank"><img src="https://img.shields.io/twitter/follow/shaghnanii?logo=twitter&style=for-the-badge" alt="shaghnanii" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
