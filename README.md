@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm SHAKIL KHAN</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk" />
+<img align="center" alt="Coding" width="400" src="[https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk](https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)" />
 
 <!-- chart view star here  -->
 <p><img align="left" style="height: 192px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaghnanii&show_icons=true&locale=en&layout=compact" alt="shaghnanii" /></p>
