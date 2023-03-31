@@ -1,8 +1,6 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header.gif)](https://shaghnanii.com)
+<img src="https://media.tenor.com/eYB5uQh-3joAAAAC/planets-in-the-universe-planets-in-space.gif" width="100%" height="280px" alt="Cover" object-fit="cover" style="object-fit: cover" />
 <h1 align="center">Hi 👋, I'm SHAKIL KHAN</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
-
-<img align="center" alt="Coding" width="400" src="[https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk](https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)" />
 
 <!-- chart view star here  -->
 <p><img align="left" style="height: 192px" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaghnanii&show_icons=true&locale=en&layout=compact" alt="shaghnanii" /></p>
@@ -15,6 +13,8 @@
 <!-- Chart view ends here  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaghnanii&label=Profile%20views&color=0e75b6&style=flat" alt="shaghnanii" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
 
 <p align="left"> <a href="https://twitter.com/shaghnanii" target="blank"><img src="https://img.shields.io/twitter/follow/shaghnanii?logo=twitter&style=for-the-badge" alt="shaghnanii" /></a> </p>
 
