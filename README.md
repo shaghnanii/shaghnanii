@@ -1,4 +1,5 @@
-<div style="padding-top:64.000%;position:relative;"><iframe src="https://gifer.com/embed/6M8G" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<iframe src="https://gifer.com/embed/6M8G" width=480 height=307.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+
 <h1 align="center">Hi 👋, I'm SHAKIL KHAN</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
 
