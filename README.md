@@ -1,4 +1,4 @@
-[https://media.tenor.com/eYB5uQh-3joAAAAC/planets-in-the-universe-planets-in-space.gif](https://res.cloudinary.com/practicaldev/image/fetch/s--32Hnc0mL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif)
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--32Hnc0mL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif" alt="profile-cover"/>
 <h1 align="center">Hi 👋, I'm SHAKIL KHAN</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
 
