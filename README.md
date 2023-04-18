@@ -1,4 +1,4 @@
-<iframe src="https://gifer.com/embed/6M8G" width=480 height=307.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img style="width:100%; object-fit:center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--32Hnc0mL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2zs4hb7x23zv5cgiro7z.gif" alt="cover-image" />
 
 <h1 align="center">Hi 👋, I'm SHAKIL KHAN</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan.</h3>
