@@ -19,11 +19,13 @@ More Info (Soon 😋)
 <h2 align="center">Where to follow me</h2>
 <br>
 <p align="center">
-  <a href="https://shaghnanii.github.io/music-app" target="_blank">🕸 Website</a>
+ <a href="https://shaghnanii.github.io/music-app" target="_blank">🤵 Portfolio</a>
   &bull;
-  <a href="https://twitter.com/shaghnanii" target="_blank">🐦 Twitter</a>
+  <a href="https://shaghnanii.github.io/music-app" target="_blank">🌐 Website</a>
+  &bull;
+  <a href="https://twitter.com/shaghnanii" target="_blank">🦆 Twitter</a>
   <br>
-  <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">🗃️ LinkedIn</a>
+  <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">🏸 LinkedIn</a>
   &bull;
 </p>
 
@@ -34,5 +36,7 @@ More Info (Soon 😋)
 <br>
 
 <div align="center">
-  <img align="center" src="/will-be-available-soon.png" alt="Dashboard" width="400">
+  <img align="center" src="[def]" alt="Dashboard" width="400">
 </div>
+
+[def]: https://github.com/shaghnanii/shaghnanii/blob/main/images/metric.png
