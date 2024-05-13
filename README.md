@@ -8,8 +8,8 @@ More Info (Soon 😋)
 <div align="center">
   <a href="https://shaghnanii.github.io/music-app" target="blank">
     <picture>
-      <source srcset="https://raw.githubusercontent.com/shaghnanii/red-logo.png" media="(prefers-color-scheme: dark)">
-      <img align="center" width="150px" alt="MYLOGO" src="https://raw.githubusercontent.com/manniL/static/main/logo-lightbulb-black-red.svg">
+      <source srcset="https://raw.githubusercontent.com/shaghnanii/images/logo.png" media="(prefers-color-scheme: dark)">
+      <img align="center" width="150px" alt="MYLOGO" src="https://raw.githubusercontent.com/shaghnanii/images/logo.png">
     </picture>
   </a>
 </div>
