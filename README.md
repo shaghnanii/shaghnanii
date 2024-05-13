@@ -6,7 +6,7 @@ More Info (Soon 😋)
 
 <br>
 <div align="center">
-  <a href="https://www.shakeel.signupdemo.com" target="blank">
+  <a href="https://shaghnanii.github.io/music-app" target="blank">
     <picture>
       <source srcset="https://raw.githubusercontent.com/shaghnanii/red-logo.png" media="(prefers-color-scheme: dark)">
       <img align="center" width="150px" alt="MYLOGO" src="https://raw.githubusercontent.com/manniL/static/main/logo-lightbulb-black-red.svg">
@@ -19,7 +19,7 @@ More Info (Soon 😋)
 <h2 align="center">Where to follow me</h2>
 <br>
 <p align="center">
-  <a href="https://www.shakeel.signupdemo.com/" target="_blank">🕸 Website</a>
+  <a href="https://shaghnanii.github.io/music-app" target="_blank">🕸 Website</a>
   &bull;
   <a href="https://twitter.com/shaghnanii" target="_blank">🐦 Twitter</a>
   <br>
