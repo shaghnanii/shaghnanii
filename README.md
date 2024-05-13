@@ -36,7 +36,5 @@ More Info (Soon 😋)
 <br>
 
 <div align="center">
-  <img align="center" src="[def]" alt="Dashboard" width="400">
+  <img align="center" src="https://github.com/shaghnanii/shaghnanii/blob/main/images/metric.png" alt="Dashboard" width="400">
 </div>
-
-[def]: https://github.com/shaghnanii/shaghnanii/blob/main/images/metric.png
