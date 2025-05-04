@@ -20,8 +20,6 @@ More Info (Soon 😋)
 <br>
 
 
-<div align="center">
-
   <table>
     <tr>
       <td align="center" style="padding: 8px;">
@@ -54,8 +52,6 @@ More Info (Soon 😋)
       </td>
     </tr>
   </table>
-
-</div>
 
 
 
