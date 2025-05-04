@@ -31,10 +31,4 @@ More Info (Soon 😋)
 
 <br>
 
-<h2 align="center">SG - Metrics</h2>
-
-<br>
-
-<div align="center">
-  <img style="width: 100%;" align="center" src="https://github.com/shaghnanii/shaghnanii/blob/main/images/metric.png" alt="Dashboard">
-</div>
+<h2 align="center">By - SHAGHNANII</h2>
