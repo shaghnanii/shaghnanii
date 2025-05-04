@@ -37,4 +37,3 @@ More Info (Soon 😋)
     </tr>
   </table>
 </div>
-<h2 align="center">By - SHAGHNANII</h2>
