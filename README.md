@@ -20,15 +20,42 @@ More Info (Soon 😋)
 <br>
 
 
-<p align="center">
-  <a href="https://shaghnanii.github.io/music-app" target="_blank">🤵 Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://shaghnanii.github.io/music-app" target="_blank">🌐 Website</a>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/shaghnanii" target="_blank">🦆 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">
-    <img width="20px" height="20px" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
-    LinkedIn
-  </a>
-</p>
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" style="padding: 8px;">
+        <a href="https://shaghnanii.github.io/music-app" target="_blank">
+          <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-portfolio-web-development-flaticons-lineal-color-flat-icons.png" width="20px" alt="Portfolio Icon" />
+        </a><br/>
+        <a href="https://shaghnanii.github.io/music-app" target="_blank">Portfolio</a>
+      </td>
+      
+      <td align="center" style="padding: 8px;">
+        <a href="https://shaghnanii.github.io/music-app" target="_blank">
+          <img src="https://img.icons8.com/fluency/48/null/domain.png" width="20px" alt="Website Icon" />
+        </a><br/>
+        <a href="https://shaghnanii.github.io/music-app" target="_blank">Website</a>
+      </td>
+
+      <td align="center" style="padding: 8px;">
+        <a href="https://twitter.com/shaghnanii" target="_blank">
+          <img src="https://img.icons8.com/color/48/null/twitter--v1.png" width="20px" alt="Twitter Icon" />
+        </a><br/>
+        <a href="https://twitter.com/shaghnanii" target="_blank">Twitter</a>
+      </td>
+
+      <td align="center" style="padding: 8px;">
+        <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">
+          <img src="https://img.icons8.com/color/48/null/linkedin.png" width="20px" alt="LinkedIn Icon" />
+        </a><br/>
+        <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">LinkedIn</a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
 
 
 
