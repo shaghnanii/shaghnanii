@@ -33,6 +33,14 @@ More Info (Soon 😋)
         <img src="https://img.icons8.com/color/48/null/facebook-new.png" width="20px" alt="Facebook" /><br/>
         <a href="https://www.facebook.com/shaghnanii" target="_blank">Facebook</a>
       </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="20px" alt="Facebook" /><br/>
+        <a href="https://www.facebook.com/shaghnanii" target="_blank">Website</a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.icons8.com/fluency/48/domain.png" width="20px" alt="Facebook" /><br/>
+        <a href="https://www.facebook.com/shaghnanii" target="_blank">Portfolio</a>
+      </td>
     </tr>
   </table>
 </div>
