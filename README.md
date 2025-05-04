@@ -24,7 +24,10 @@ More Info (Soon 😋)
   <a href="https://shaghnanii.github.io/music-app" target="_blank">🤵 Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://shaghnanii.github.io/music-app" target="_blank">🌐 Website</a>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/shaghnanii" target="_blank">🦆 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" /> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">
+    <img width="20px" height="20px" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" />
+    LinkedIn
+  </a>
 </p>
 
 
