@@ -1,10 +1,6 @@
 ### Hey people 👋👋👋
-
 I'm Shakil Ahmad K., also known as `shaghnanii` (hard to pronounce 😂).
-
 More Info (Soon 😋)
-
-<br>
 <div align="center">
   <a href="https://shaghnanii.github.io/music-app" target="blank">
     <picture>
@@ -13,9 +9,6 @@ More Info (Soon 😋)
     </picture>
   </a>
 </div>
-
-<br>
-
 <h2 align="center">Where to follow me</h2>
 <br>
 <div align="center">
@@ -44,7 +37,4 @@ More Info (Soon 😋)
     </tr>
   </table>
 </div>
-
-
-
 <h2 align="center">By - SHAGHNANII</h2>
