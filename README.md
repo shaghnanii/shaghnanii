@@ -21,10 +21,9 @@ More Info (Soon 😋)
 
 
 <p align="center">
-  <a href="https://shaghnanii.github.io/music-app" target="_blank">🤵 Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://shaghnanii.github.io/music-app" target="_blank">🌐 Website</a>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/shaghnanii" target="_blank">🦆 Twitter</a>
-  <br><br>
+  <a href="https://shaghnanii.github.io/music-app" target="_blank">🤵 Portfolio</a>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://shaghnanii.github.io/music-app" target="_blank">🌐 Website</a>&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/shaghnanii" target="_blank">🦆 Twitter</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">🏸 LinkedIn</a>
 </p>
 
