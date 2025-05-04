@@ -19,7 +19,7 @@ More Info (Soon 😋)
 <h2 align="center">Where to follow me</h2>
 <br>
 <p align="center" style="margin-bottom: 30px;">
-  <a href="https://shaghnanii.github.io/music-app" target="_blank" style="margin: 0 20px;">🤵 Portfolio</a>
+  <a href="https://shaghnanii.github.io/music-app" target="_blank" style="margin: 0 20px; color: red">🤵 Portfolio</a>
   <a href="https://shaghnanii.github.io/music-app" target="_blank" style="margin: 0 20px;">🌐 Website</a>
   <a href="https://twitter.com/shaghnanii" target="_blank" style="margin: 0 20px;">🦆 Twitter</a>
   <br>
