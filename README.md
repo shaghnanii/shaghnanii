@@ -20,42 +20,4 @@ More Info (Soon 😋)
 <br>
 
 
-  <table>
-    <tr>
-      <td align="center" style="padding: 8px;">
-        <a href="https://shaghnanii.github.io/music-app" target="_blank">
-          <img src="https://img.icons8.com/color/48/null/linkedin.png" width="20px" alt="Portfolio Icon" />
-        </a>
-        <br/>
-        <a href="https://shaghnanii.github.io/music-app" target="_blank">Portfolio</a>
-      </td>
-      
-      <td align="center" style="padding: 8px;">
-        <a href="https://shaghnanii.github.io/music-app" target="_blank">
-          <img src="https://img.icons8.com/color/48/null/linkedin.png" width="20px" alt="Website Icon" />
-        </a><br/>
-        <a href="https://shaghnanii.github.io/music-app" target="_blank">Website</a>
-      </td>
-
-      <td align="center" style="padding: 8px;">
-        <a href="https://twitter.com/shaghnanii" target="_blank">
-          <img src="https://img.icons8.com/color/48/null/linkedin.png" width="20px" alt="Twitter Icon" />
-        </a><br/>
-        <a href="https://twitter.com/shaghnanii" target="_blank">Twitter</a>
-      </td>
-
-      <td align="center" style="padding: 8px;">
-        <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">
-          <img src="https://img.icons8.com/color/48/null/linkedin.png" width="20px" alt="LinkedIn Icon" />
-        </a><br/>
-        <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">LinkedIn</a>
-      </td>
-    </tr>
-  </table>
-
-
-
-
-<br>
-
 <h2 align="center">By - SHAGHNANII</h2>
