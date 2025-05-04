@@ -18,16 +18,14 @@ More Info (Soon 😋)
 
 <h2 align="center">Where to follow me</h2>
 <br>
-<p align="center">
- <a href="https://shaghnanii.github.io/music-app" target="_blank">🤵 Portfolio</a>
-  &bull;
-  <a href="https://shaghnanii.github.io/music-app" target="_blank">🌐 Website</a>
-  &bull;
-  <a href="https://twitter.com/shaghnanii" target="_blank">🦆 Twitter</a>
+<p align="center" style="margin-bottom: 30px;">
+  <a href="https://shaghnanii.github.io/music-app" target="_blank" style="margin: 0 10px;">🤵 Portfolio</a>
+  <a href="https://shaghnanii.github.io/music-app" target="_blank" style="margin: 0 10px;">🌐 Website</a>
+  <a href="https://twitter.com/shaghnanii" target="_blank" style="margin: 0 10px;">🦆 Twitter</a>
   <br>
-  <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank">🏸 LinkedIn</a>
-  &bull;
+  <a href="https://www.linkedin.com/in/shaghnanii/" target="_blank" style="margin: 0 10px;">🏸 LinkedIn</a>
 </p>
+
 
 <br>
 
